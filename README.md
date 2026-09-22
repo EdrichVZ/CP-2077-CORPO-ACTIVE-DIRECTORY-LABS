@@ -5,7 +5,7 @@ Features PowerShell infrastructure-as-code deployment, RBAC group provisioning, 
 ![alt text](adrian-marc-jolua-biotech.jpg)
 <img width="1408" height="768" alt="Domain Layout" src="https://github.com/user-attachments/assets/f7723b48-8a8f-44bf-a36e-8a555fd27a9a" />
 
-## End Goal to create a project for each Cyberpunk 2077 Mega Corporations:
+## End Goal to create a project for each Cyberpunk 2077 Mega Corporation:
 
 ![alt text](Corporations_Database_CP2077.webp)
 
